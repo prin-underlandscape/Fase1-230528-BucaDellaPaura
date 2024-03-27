@@ -1,7 +1,6 @@
 # Fase1-230528-BucaDellaPaura
-## Percorso: Nuovo tracciato 28/05/23 09:49:37 bua paura
-*Non è disponibile l'immagine dell'accesso al percorso* 
-
+## Percorso: Antro della paura
+****
 ## POI: Buca paura
 [<img src='/vignettes/2733c866-911e-486a-a88a-700a235a76bb.jpg' width='250'/>](/vignettes/2733c866-911e-486a-a88a-700a235a76bb.jpg) 
 
